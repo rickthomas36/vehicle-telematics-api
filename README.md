@@ -187,7 +187,3 @@ mvn test
 Richard Seabridge | github.com/rickthomas36
 B.S. Computer Science, SNHU 2025
 Ford Motor Company — MP&L Associate transitioning to Software Engineering
-
-Richard Seabridge | github.com/rickthomas36
-B.S. Computer Science, SNHU 2025
-Ford Motor Company — MP&L Associate transitioning to Software Engineering
